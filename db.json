@@ -1,0 +1,70 @@
+{
+    "mangas":[
+        {
+            "id":201,
+            "name": "Attack on Titan #30",
+            "genre": "Drama",
+            "price": "109",
+            "image": ""
+        },
+        {
+            "id":202,
+            "name": "Black Clover #26",
+            "genre":"Fantasía",
+            "price": "119"
+        },
+        {
+            "id":203,
+            "name": "Blue Lock #21",
+            "genre":"Deporte",
+            "price": "148"
+        },
+        {
+            "id":204,
+            "name": "Bocchi the Rock! Vol.2",
+            "genre": "Comedia",
+            "price": "283"
+        },
+        {
+            "id":205,
+            "name": "Dragon Ball Super #23",
+            "genre": "Acción",
+            "price": "169"
+        },
+        {
+            "id":206,
+            "name": "Dan Da Dan #1",
+            "price": "119"
+        },
+        {
+            "id":207,
+            "name": "Demon Slayer #6",
+            "price": "119"
+        },
+        {
+            "id":208,
+            "name": "Fullmetal Alchemist #1",
+            "price": "129"
+        },
+        {
+            "id":209,
+            "name": "Jojo's Bizarre: Steel Ball Run #1",
+            "price": "189"
+        },
+        {
+            "id":210,
+            "name": "My Dress-Up Darling #10",
+            "price": "149"
+        },
+        {
+            "id":211,
+            "name": "My Hero Academia #11",
+            "price": "109"
+        },
+        {
+            "id":212,
+            "name": "One Piece #108",
+            "price": "159"
+        }
+    ]
+}
