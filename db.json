@@ -1,11 +1,12 @@
 {
+  "product": {
     "mangas":[
         {
             "id":201,
             "name": "Attack on Titan #30",
             "genre": ["Acción", "Drama", "Shonen", "Post-apocalíptico"],
-            "description": "Reiner lucha contra Eren en un intento desesperado por detenerlo. Pero el repentino grito de Zeke cambia por completo la situación, pues convierte en titanes a todos los que ingirieron el vino intoxicado, incluyendo a Falco. Ante esta situación caótica, Eren aprovecha para dejar atrás a Reiner y se apresura para entrar en contacto con Zeke, pero Gabi se percata y se prepara para dispararle…",
-            "price": "109",
+            "description": "Reiner lucha contra Eren en un intento desesperado por detenerlo.\n\nPero el repentino grito de Zeke cambia por completo la situación, pues convierte en titanes a todos los que ingirieron el vino intoxicado, incluyendo a Falco. Ante esta situación caótica, Eren aprovecha para dejar atrás a Reiner y se apresura para entrar en contacto con Zeke, pero Gabi se percata y se prepara para dispararle…",
+            "price": 109,
             "image": "https://i.postimg.cc/QCNG9f9R/13.jpg",
             "status": "Finalizado"
         },
@@ -13,8 +14,8 @@
             "id":202,
             "name": "Black Clover #26",
             "genre": ["Acción", "Fantasía", "Shonen", "Magia"],
-            "description": "¡Vanica de la “Dark Triad” se aparece frente a Lolopechka y Noelle! ¡Ambas unen fuerzas y se enfrentan a la maldad y al poder mágico incomparable de Vanica, quien aloja en su cuerpo a Megicula, un diablo cuyo destino está vinculado a ellas dos! ¡Por otro lado, Dante, quien está tras Yami, por fin revela su naturaleza! ¡Los Caballeros Mágicos nuevamente superarán su límite!",
-            "price": "119",
+            "description": "¡Vanica de la “Dark Triad” se aparece frente a Lolopechka y Noelle!\n\n¡Ambas unen fuerzas y se enfrentan a la maldad y al poder mágico incomparable de Vanica, quien aloja en su cuerpo a Megicula, un diablo cuyo destino está vinculado a ellas dos! ¡Por otro lado, Dante, quien está tras Yami, por fin revela su naturaleza! ¡Los Caballeros Mágicos nuevamente superarán su límite!",
+            "price": 119,
             "image": "https://i.postimg.cc/d1XgWJLj/14.jpg",
             "status": "En Curso"
         },
@@ -22,8 +23,8 @@
             "id":203,
             "name": "Blue Lock #21",
             "genre": ["Deportes", "Shonen", "Drama"],
-            "description": "¡El enfrentamiento contra las estrellas del Manshine City! ¡Una batalla de altísimo nivel en la que la evolución engendrará más evolución! El tercer partido de la Liga Neoegoísta ha comenzado con el gol del recién transformado Chigiri. Mientras Isagi planea contraatacar con una combinación con Kurona, Nagi, por su parte, liberará su nueva ¿forma? con la ayuda de su mentor Chris. ¡Kaiser y Agi, el delantero del Manshine City, también mostrarán su verdadero potencial, y la batalla alcanzará niveles nunca antes vistos! ¡¡Isagi está hambriento por marcar un gol, y acabará descubriendo la mina de oro que es ¿superar los límites?!!",
-            "price": "148",
+            "description": "¡El enfrentamiento contra las estrellas del Manshine City! ¡Una batalla de altísimo nivel en la que la evolución engendrará más evolución!\n\nEl tercer partido de la Liga Neoegoísta ha comenzado con el gol del recién transformado Chigiri. Mientras Isagi planea contraatacar con una combinación con Kurona, Nagi, por su parte, liberará su nueva ¿forma? con la ayuda de su mentor Chris. ¡Kaiser y Agi, el delantero del Manshine City, también mostrarán su verdadero potencial, y la batalla alcanzará niveles nunca antes vistos! ¡¡Isagi está hambriento por marcar un gol, y acabará descubriendo la mina de oro que es ¿superar los límites?!!",
+            "price": 148,
             "image": "https://i.postimg.cc/J7DfsH26/15.jpg",
             "status": "En Curso"
         },
@@ -31,8 +32,8 @@
             "id":204,
             "name": "Bocchi the Rock! Vol.2",
             "genre": ["Slice of Life", "Comedia", "Música", "Drama", "Seinen"],
-            "description": "Hitori Bocchi Gotoh alguna vez tocó la guitarra en soledad. Pero desde que Nijika Ijichi la convenció para unirse a Kessoku Band, ha experimentado de todo, desde tocar en vivo hasta trabajos a tiempo parcial y comprar instrumentos. En total, se lo está pasando bien, a su manera socialmente ansiosa. Pero ahora Bocchi se enfrenta a su mayor desafío hasta el momento: ¡actuar en el escenario del festival de su escuela!",
-            "price": "283",
+            "description": "Hitori Bocchi Gotoh alguna vez tocó la guitarra en soledad.\n\nPero desde que Nijika Ijichi la convenció para unirse a Kessoku Band, ha experimentado de todo, desde tocar en vivo hasta trabajos a tiempo parcial y comprar instrumentos. En total, se lo está pasando bien, a su manera socialmente ansiosa. Pero ahora Bocchi se enfrenta a su mayor desafío hasta el momento: ¡actuar en el escenario del festival de su escuela!",
+            "price": 283,
             "image": "https://i.postimg.cc/1Xq22bFh/16.jpg",
             "status": "En Curso"
         },
@@ -40,8 +41,8 @@
             "id":205,
             "name": "Dragon Ball Super #23",
             "genre": ["Acción", "Artes Marciales", "Aventura", "Shonen"],
-            "description": "¡¡El androide más fuerte, Cellmax, se activa!! Gohan y sus amigos, junto con Gamma 1 y 2, se enfrentan a Cellmax, pero son abrumados por los ataques disparados desde su gigantesco cuerpo...! ¿¡Con el tamaño gigante instantáneo de Piccolo, estalla una ultra batalla entre gigantes y gigantes!?",
-            "price": "169",
+            "description": "¡¡El androide más fuerte, Cellmax, se activa!!\n\nGohan y sus amigos, junto con Gamma 1 y 2, se enfrentan a Cellmax, pero son abrumados por los ataques disparados desde su gigantesco cuerpo...! ¿¡Con el tamaño gigante instantáneo de Piccolo, estalla una ultra batalla entre gigantes y gigantes!?",
+            "price": 169,
             "image": "https://i.postimg.cc/Sxr5B6ns/17.png",
             "status": "Pausa Indefinida"
         },
@@ -49,8 +50,8 @@
             "id":206,
             "name": "Dan Da Dan #1",
             "genre": ["Acción", "Sobrenatural", "Ciencia Ficción", "Comedia"],
-            "description": "¡¿Comienza una historia llena de ocurrencias paranormales y acción?! Momo ayase, una chica de preparatoria que cree en los fantasmas, tiene un compañero otaku: Okaruto-kun, al que le gustan los extraterrestres. Para hacer al otro creer ya sea en los espantosos o en los alienígenas, hacen una apuesta. Momo se dirige a un hospital abandonado donde se avistan ovnis, y su amigo hacia el túnel embrujado…",
-            "price": "119",
+            "description": "¡¿Comienza una historia llena de ocurrencias paranormales y acción?!\n\nMomo ayase, una chica de preparatoria que cree en los fantasmas, tiene un compañero otaku: Okaruto-kun, al que le gustan los extraterrestres. Para hacer al otro creer ya sea en los espantosos o en los alienígenas, hacen una apuesta. Momo se dirige a un hospital abandonado donde se avistan ovnis, y su amigo hacia el túnel embrujado…",
+            "price": 119,
             "image": "https://i.postimg.cc/NfRZ4qYR/18.jpg",
             "status": "En Curso"
         },
@@ -58,8 +59,8 @@
             "id":207,
             "name": "Demon Slayer #6",
             "genre": ["Acción", "Fantasía", "Drama", "Shonen"],
-            "description": "La batalla con los demonios araña termina, y un cuervo da la orden de que capturen a Tanjiro y a Nezuko y los lleven al Cuartel General de la Compañía. Ahí, los Pilares piden un juicio para ejecutarlos. Ahí se aparece el Comandante de la Compañía, y les dice a los Pilares que los acepten. Sanemi Shinazugawa, el Pilar del Viento, no queda muy conforme. Tanjiro, Zenitsu e Inosuke son atendidos en la mansión de Shinobu y luego entrenan para regresar al trabajo.",
-            "price": "119",
+            "description": "La batalla con los demonios araña termina, y un cuervo da la orden de que capturen a Tanjiro y a Nezuko y los lleven al Cuartel General de la Compañía.\n\nAhí, los Pilares piden un juicio para ejecutarlos. Ahí se aparece el Comandante de la Compañía, y les dice a los Pilares que los acepten. Sanemi Shinazugawa, el Pilar del Viento, no queda muy conforme. Tanjiro, Zenitsu e Inosuke son atendidos en la mansión de Shinobu y luego entrenan para regresar al trabajo.",
+            "price": 119,
             "image": "https://i.postimg.cc/bvV5JqHf/19.jpg",
             "status": "Finalizado"
         },
@@ -67,8 +68,8 @@
             "id":208,
             "name": "Fullmetal Alchemist #1",
             "genre": ["Acción", "Aventura", "Fantasía", "Drama", "Shonen"],
-            "description": "Del grandioso trazo de Hiromu Arawaka llega el tan esperado primer tomo de ¡Fullmetal Alchemist! Acompaña a los hermanos Elric en su búsqueda de la piedra filosofal, la cual necesitan para regresar sus cuerpos a la normalidad. En el camino, conocerán nuevos amigos y enemigos y, claro, también se divertirán. Así las cosas, corre a tu distribuidor más cercano y ¡pon en práctica el “intercambio equivalente” con él!",
-            "price": "129",
+            "description": "Del grandioso trazo de Hiromu Arawaka llega el tan esperado primer tomo de ¡Fullmetal Alchemist!\n\nAcompaña a los hermanos Elric en su búsqueda de la piedra filosofal, la cual necesitan para regresar sus cuerpos a la normalidad. En el camino, conocerán nuevos amigos y enemigos y, claro, también se divertirán. Así las cosas, corre a tu distribuidor más cercano y ¡pon en práctica el “intercambio equivalente” con él!",
+            "price": 129,
             "image": "https://i.postimg.cc/mDc51K8z/20.jpg",
             "status": "Finalizado"
         },
@@ -77,7 +78,7 @@
             "name": "Jojo's Bizarre: Steel Ball Run #1",
             "genre": ["Acción", "Aventura", "Sobrenatural", "Seinen"],
             "description": "En el nuevo arco de Jojo's Bizarre Adventure, Hirohiko Araki nos transporta a los Estados Unidos de 1890, para sumergirnos en la más grandiosa carrera que había existido hasta entonces: la Steel Ball Run, una competencia de los más diestros jinetes que recorre el país de costa a costa, desde San Diego Beach hasta Nueva York, ¡con un premio de 50 millones de dólares! Narrada como una crónica deportiva, esta palpitante historia acelerará tu corazón desde la primera página.",
-            "price": "189",
+            "price": 189,
             "image": "https://i.postimg.cc/WbcHtWrz/21.jpg",
             "status": "Finalizado"
         },
@@ -85,8 +86,8 @@
             "id":210,
             "name": "My Dress-Up Darling #10",
             "genre": ["Romance", "Comedia", "Slice of Life"],
-            "description": "¡Perdón por llamarte tan repentinamente, Lady Juju! Después del evento, Marin y Wakana acuerdan hacer un cosplay conjunto con sus amigos. El tema es un juego de terror llamado Los sarcófagos, pero les falta una persona y Marin decide invitar a Lady Juju, ni más ni menos.",
-            "price": "149",
+            "description": "¡Perdón por llamarte tan repentinamente, Lady Juju!\n\nDespués del evento, Marin y Wakana acuerdan hacer un cosplay conjunto con sus amigos. El tema es un juego de terror llamado Los sarcófagos, pero les falta una persona y Marin decide invitar a Lady Juju, ni más ni menos.",
+            "price": 149,
             "image": "https://i.postimg.cc/fymqBm4M/22.jpg",
             "status": "Finalizado"
         },
@@ -95,7 +96,7 @@
             "name": "My Hero Academia #11",
             "genre": ["Acción", "Superpoderes", "Shonen", "Drama"],
             "description": "El líder de la Unión de Villanos se hace presente mientras los héroes tratan de salvar a Bakugo. Y a pesar de que su singularidad no es tan poderosa, All Might se encuentra en apuros al enfrentarse contra él. Parece que es el fin del símbolo de la paz, pues cada vez pierde más su fuerza hasta revelar su figura débil y vulnerable.",
-            "price": "109",
+            "price": 109,
             "image": "https://i.postimg.cc/qB3FJVNW/23.jpg",
             "status": "Finalizado"
         },
@@ -104,7 +105,7 @@
             "name": "One Piece #108",
             "genre":["Acción", "Aventura", "Fantasía", "Shonen"],
             "description": "Luffy y su tripulación se preparan para escapar de la Isla Futurista, pero una gran flota de la Marina los rodea, ¡y quien la dirige es el almirante Kizaru! Como también los acompaña un Gorosei, se espera el inicio de una batalla nunca antes vista. ¡Continúa la romántica aventura en busca del “One Piece”!",
-            "price": "159",
+            "price": 159,
             "image": "https://i.postimg.cc/3JjbGXCB/24.jpg",
             "status": "En Curso"
         }
@@ -115,110 +116,111 @@
             "id":301,
             "name": "Absolute Batman #1",
             "genre": ["Superhéroes","Acción", "Drama Urbano", "Reinvención"],
-            "description": "Sin mansión... sin fortuna... sin mayordómo. Lo que queda es el caballero oscuro absoluto. DC Comics nos propone un universo alterno al que todos conocemos, donde nuestros heroes se encuentran inmersos en un ambiente de mayor oscuridad y desesperacion, siendo ellos el unico hilo de esperanza.",
-            "price": "99",
+            "description": "Sin mansión... sin fortuna... sin mayordómo. Lo que queda es el caballero oscuro absoluto.\n\nDC Comics nos propone un universo alterno al que todos conocemos, donde nuestros heroes se encuentran inmersos en un ambiente de mayor oscuridad y desesperacion, siendo ellos el unico hilo de esperanza.",
+            "price": 99,
             "image": "https://i.postimg.cc/QMggtDLx/1.jpg",
-            "status": "En Curso"
+            "editorial": "DC"
         },
         {
             "id":302,
             "name": "Absolute Superman #1",
             "genre": ["Superhéroes", "Acción", "Ciencia Ficción", "Drama Social", "Reinvención"],
-            "description": "Sin familia... Sin hogar... Sólo queda el hombre de acero absoluto. DC Comics ha consolidado otro elemento clave del nuevo Universo Absolute con el estreno de Absolute Superman nº 1, creado por Jason Aaron y Rafa Sandoval. Similar a las recientes publicaciones de Absolute Batman y Absolute Wonder Woman, esta serie se desarrolla en un universo donde el Hombre de Acero no posee muchas de las ventajas esenciales de su versión clásica. ¿Continúa siendo Superman si no creció en la granja de los Kent?",
-            "price": "99",
+            "description": "Sin familia... Sin hogar... Sólo queda el hombre de acero absoluto.\n\nDC Comics ha consolidado otro elemento clave del nuevo Universo Absolute con el estreno de Absolute Superman nº 1, creado por Jason Aaron y Rafa Sandoval. Similar a las recientes publicaciones de Absolute Batman y Absolute Wonder Woman, esta serie se desarrolla en un universo donde el Hombre de Acero no posee muchas de las ventajas esenciales de su versión clásica. ¿Continúa siendo Superman si no creció en la granja de los Kent?",
+            "price": 99,
             "image": "https://i.postimg.cc/YqJQz0MC/2.jpg",
-            "status": "En Curso"
+            "editorial": "DC"
         },
         {
             "id":303,
             "name": "Absolute Wonder Woman #1",
             "genre": ["Superhéroes", "Fantasía", "Reinvención", "Drama"],
-            "description": "Sin la isla paradisíaca… sin la hermandad que la formó… sin una misión de paz… ¡lo que queda es la Amazona Absoluta! Wonder Woman siempre se ha caracterizado por estar entre los mejores héroes del Universo DC. Ella siempre ha jugado un papel vital, pero la nueva propuesta que proviene del Universo Absolute puede haber presentado una nueva versión de Wonder Woman que podría dejar en ridículo a la original. Absolute Wonder Woman posee una infinidad de poderes, dominio de la magia y armas con un potencial que su contraparte original no ha podido demostrar.",
-            "price": "99",
+            "description": "Sin la isla paradisíaca… sin la hermandad que la formó… sin una misión de paz… ¡lo que queda es la Amazona Absoluta!\n\nWonder Woman siempre se ha caracterizado por estar entre los mejores héroes del Universo DC. Ella siempre ha jugado un papel vital, pero la nueva propuesta que proviene del Universo Absolute puede haber presentado una nueva versión de Wonder Woman que podría dejar en ridículo a la original. Absolute Wonder Woman posee una infinidad de poderes, dominio de la magia y armas con un potencial que su contraparte original no ha podido demostrar.",
+            "price": 99,
             "image": "https://i.postimg.cc/W1Gqm755/12.jpg",
-            "status": "En Curso"
+            "editorial": "DC"
         },
         {
             "id":304,
             "name": "Aliens vs Avengers #3",
             "genre": ["Superhéroes", "Terror Cósmico", "Acción", "Crossover"],
-            "description": "¡LOS INGENIEROS VAN A LA GUERRA! Pero en un mundo de héroes cósmicos y mutantes genéticos, los Ingenieros no son los únicos dioses de la creación. Mientras los ingenieros se proponen destruir lo que crearon, los héroes restantes de la humanidad descubren una amenaza aún más apremiante: los X-Men.",
-            "price": "159",
+            "description": "¡LOS INGENIEROS VAN A LA GUERRA!\n\nPero en un mundo de héroes cósmicos y mutantes genéticos, los Ingenieros no son los únicos dioses de la creación. Mientras los ingenieros se proponen destruir lo que crearon, los héroes restantes de la humanidad descubren una amenaza aún más apremiante: los X-Men.",
+            "price": 159,
             "image": "https://i.postimg.cc/KYbLCWKX/3.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":305,
             "name": "Daredevil #2",
             "genre": ["Superhéroes", "Acción", "Drama Urbano", "Noir"],
-            "description": "Elektra y Matt Murdock, ahora completamente consumidos por sus respectivas identidades como Daredevil, dirigen su atención al mundo para convertirlo en un lugar mejor. Pero ninguno de los dos es conocido por su toque delicado, y se topan con mucha resistencia cuando desatan su estilo único de purga a través del elemento criminal, ¡tanto si es esperado como si no lo es! ¡Se acerca la guerra y Daredevil y Elektra están en curso de colisión con el resto del Universo Marvel!",
-            "price": "169",
+            "description": "Elektra y Matt Murdock, ahora completamente consumidos por sus respectivas identidades como Daredevil, dirigen su atención al mundo para convertirlo en un lugar mejor.\n\nPero ninguno de los dos es conocido por su toque delicado, y se topan con mucha resistencia cuando desatan su estilo único de purga a través del elemento criminal, ¡tanto si es esperado como si no lo es! ¡Se acerca la guerra y Daredevil y Elektra están en curso de colisión con el resto del Universo Marvel!",
+            "price": 169,
             "image": "https://i.postimg.cc/htTTyntb/5.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":306,
             "name": "Daredevil: Woman Without Fear #1",
             "genre": ["Superhéroes", "Acción", "Drama Urbano", "Noir"],
-            "description": "Después de los impresionantes acontecimientos de DAREDEVIL #11. Los aliados de Daredevil quedan más vulnerables que nunca. Si son capaces de sobrevivir, le corresponderá a Elektra y Matt Murdock no solo salvar su ciudad como Daredevil, sino también proteger a las personas que más aman, ya que son el objetivo de algunos de los elementos más peligrosos y violentos de Marvel. ¡El universo tiene para ofrecer!",
-            "price": "99",
+            "description": "Después de los impresionantes acontecimientos de DAREDEVIL #11.\n\nLos aliados de Daredevil quedan más vulnerables que nunca. Si son capaces de sobrevivir, le corresponderá a Elektra y Matt Murdock no solo salvar su ciudad como Daredevil, sino también proteger a las personas que más aman, ya que son el objetivo de algunos de los elementos más peligrosos y violentos de Marvel. ¡El universo tiene para ofrecer!",
+            "price": 99,
             "image": "https://i.postimg.cc/d09dF9dh/4.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":307,
             "name": "Deadpool #2",
             "genre": ["Superhéroes", "Acción", "Comedia Negra", "Metaficción"],
-            "description": "¡Es una nueva era para el Mercenario Bocón! ¡Y trae pistola y espada! Cody Ziglar (Futurama, Miles Morales: Spider-Man) nos trae una aventura salvaje exclusiva para nuestro degenerado favorito, ¡comenzando con la introducción de un nuevo y aterrador villano que no se detendrá hasta atrapar a Wade Wilson en su abrazo mortal! Pero Deadpool tiene (bueno, se robó) la gran idea de comenzar su propia agencia de mercenarios… pero eso implica mucho trabajo, ¡así que le pide a Taskmaster que la dirija",
-            "price": "79",
+            "description": "¡Es una nueva era para el Mercenario Bocón! ¡Y trae pistola y espada!\n\nCody Ziglar (Futurama, Miles Morales: Spider-Man) nos trae una aventura salvaje exclusiva para nuestro degenerado favorito, ¡comenzando con la introducción de un nuevo y aterrador villano que no se detendrá hasta atrapar a Wade Wilson en su abrazo mortal! Pero Deadpool tiene (bueno, se robó) la gran idea de comenzar su propia agencia de mercenarios… pero eso implica mucho trabajo, ¡así que le pide a Taskmaster que la dirija",
+            "price": 79,
             "image": "https://i.postimg.cc/Qt4T9xfs/6.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":308,
             "name": "Inmortal Hulk: La Puerta Verde",
             "genre": ["Superhéroes", "Terror", "Ciencia Ficción", "Drama Psicológico"],
-            "description": "¡El terror ha vuelto y ahora todo el mundo lo sabe. Bruce Banner trata de controlar el monstruo interior, mientras viejos amigos y enemigos lo persiguen, desde Los Vengadores a los misteriosos científicos de La Base Sombra, quienes tienen sus propios planes para Hulk... lo único que se interpone entre el mundo de los vivos y los terrores que esperan al otro lado de la Puerta Verde.",
-            "price": "189",
+            "description": "¡El terror ha vuelto y ahora todo el mundo lo sabe.\n\nBruce Banner trata de controlar el monstruo interior, mientras viejos amigos y enemigos lo persiguen, desde Los Vengadores a los misteriosos científicos de La Base Sombra, quienes tienen sus propios planes para Hulk... lo único que se interpone entre el mundo de los vivos y los terrores que esperan al otro lado de la Puerta Verde.",
+            "price": 189,
             "image": "https://i.postimg.cc/sXDWgZ9w/7.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":309,
             "name": "Iron Man: Roxxon War",
             "genre": ["Superhéroes", "Acción", "Ciencia Ficción", "Thriller Corporativo"],
-            "description": "¡COMIENZA UNA NUEVA ERA BRUTAL! ¡Roxxon y AIM se unen para enfrentarse a Stark Unlimited! Pero están listos para el viejo Tony Stark. ¿Éste? Está mucho más enojado que antes. ¡Iron Man va a la guerra! ¡Nuevas armaduras, viejos enemigos y giros increíbles abundan en esta nueva versión de un Iron Man impulsado por la furia del periodista ganador del Premio Pulitzer Spencer Ackerman y el artista innovador Julius Ohta!",
-            "price": "189",
+            "description": "¡COMIENZA UNA NUEVA ERA BRUTAL!\n\n¡Roxxon y AIM se unen para enfrentarse a Stark Unlimited! Pero están listos para el viejo Tony Stark. ¿Éste? Está mucho más enojado que antes. ¡Iron Man va a la guerra! ¡Nuevas armaduras, viejos enemigos y giros increíbles abundan en esta nueva versión de un Iron Man impulsado por la furia del periodista ganador del Premio Pulitzer Spencer Ackerman y el artista innovador Julius Ohta!",
+            "price": 189,
             "image": "https://i.postimg.cc/d3gZ6NMx/8.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":310,
             "name": "Life of Wolverine",
             "genre": ["Superhéroes", "Biografía", "Acción", "Drama"],
-            "description": "LA HISTORIA DE VIDA DE LOGAN - ¡EN ORDEN CRONOLÓGICO POR PRIMERA VEZ! A Wolverine le han borrado la mente, lo han manipulado y le han dado recuerdos falsos tantas veces, ¿cuál es la verdad de su larga vida? Ahora, cuando un viaje a su propio pasado se vuelve primordial para la supervivencia de los mutantes, profundice en la VERDADERA historia de la vida de LOGAN, desde sus primeros días a fines del siglo XIX, hasta las muchas guerras en las que luchó junto a camaradas como CAPITÁN AMÉRICA y SABRETOOTH, hasta ¡los procedimientos de WEAPON X que cambiaron su vida para siempre, sus días en los X-MEN y más! ¡Todo EN CONTINUIDAD, esto incluye algunas aventuras y enlaces al pasado nunca antes revelados, brindando la imagen más completa de la historia de WOLVERINE JAMÁS REUNIDA! ¡Impreso por primera vez!",
-            "price": "99",
+            "description": "LA HISTORIA DE VIDA DE LOGAN - ¡EN ORDEN CRONOLÓGICO POR PRIMERA VEZ!\n\nA Wolverine le han borrado la mente, lo han manipulado y le han dado recuerdos falsos tantas veces, ¿cuál es la verdad de su larga vida? Ahora, cuando un viaje a su propio pasado se vuelve primordial para la supervivencia de los mutantes, profundice en la VERDADERA historia de la vida de LOGAN, desde sus primeros días a fines del siglo XIX, hasta las muchas guerras en las que luchó junto a camaradas como CAPITÁN AMÉRICA y SABRETOOTH, hasta ¡los procedimientos de WEAPON X que cambiaron su vida para siempre, sus días en los X-MEN y más! ¡Todo EN CONTINUIDAD, esto incluye algunas aventuras y enlaces al pasado nunca antes revelados, brindando la imagen más completa de la historia de WOLVERINE JAMÁS REUNIDA! ¡Impreso por primera vez!",
+            "price": 99,
             "image": "https://i.postimg.cc/W1LJJywD/11.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         },
         {
             "id":311,
             "name": "Nightwing #37",
             "genre": ["Superhéroes", "Acción", "Drama Urbano", "Misterio"],
-            "description": "¡La investigación de Nightwing lo lleva hasta una antigua aliada y luchadora enmascarada contra el crimen! ¡En un número flashback especial ilustrado por el artista superestrella Klaus Janson, Dick Grayson revisitará su tiempo como Robin y verá si sus errores del pasado con la clave para el misterio que debe resolver en el presente!",
-            "price": "79",
+            "description": "¡La investigación de Nightwing lo lleva hasta una antigua aliada y luchadora enmascarada contra el crimen!\n\n¡En un número flashback especial ilustrado por el artista superestrella Klaus Janson, Dick Grayson revisitará su tiempo como Robin y verá si sus errores del pasado con la clave para el misterio que debe resolver en el presente!",
+            "price": 79,
             "image": "https://i.postimg.cc/VvJbjQht/9.jpg",
-            "status": "En Curso"
+            "editorial": "DC"
         },
         {
             "id":312,
             "name": "Ultimate Spider-Man Vol. 1",
             "genre": ["Superhéroes", "Reinvención", "Drama Familiar", "Ciencia Ficción"],
-            "description": "El visionario escritor Jonathan Hickman y el aclamado artista Marco Checchetto se unen para presentarte una nueva y audaz versión de Spider-Man, en los albores del reimaginado Universo Ultimate. Después de los eventos de Ultimate Invasion, el mundo necesita un héroe. ¡Te presentamos a Peter Parker! Pero este es un trepamuros más viejo y sabio, uno que equilibra sus deberes enmascarados con sus responsabilidades como esposo y padre. ¡Así es, Peter y Mary Jane están casados y tienen hijos! Las apuestas nunca han sido más altas, y mientras Spider-Man enfrenta a su primer supervillano, la búsqueda de J. Jonah Jameson para descubrir quién realmente está moviendo los hilos de este nuevo Universo Ultimate lleva a una revelación impactante. Además: Nueva York da la bienvenida a su nuevo héroe... ¡Green Goblin! Pero, ¿quién está detrás de la máscara? ¿Y qué sabe el Goblin de la verdadera situación del mundo en el que vive?!",
-            "price": "249",
+            "description": "El visionario escritor Jonathan Hickman y el aclamado artista Marco Checchetto se unen para presentarte una nueva y audaz versión de Spider-Man, en los albores del reimaginado Universo Ultimate.\n\nDespués de los eventos de Ultimate Invasion, el mundo necesita un héroe. ¡Te presentamos a Peter Parker! Pero este es un trepamuros más viejo y sabio, uno que equilibra sus deberes enmascarados con sus responsabilidades como esposo y padre. ¡Así es, Peter y Mary Jane están casados y tienen hijos! Las apuestas nunca han sido más altas, y mientras Spider-Man enfrenta a su primer supervillano, la búsqueda de J. Jonah Jameson para descubrir quién realmente está moviendo los hilos de este nuevo Universo Ultimate lleva a una revelación impactante. Además: Nueva York da la bienvenida a su nuevo héroe... ¡Green Goblin! Pero, ¿quién está detrás de la máscara? ¿Y qué sabe el Goblin de la verdadera situación del mundo en el que vive?!",
+            "price": 249,
             "image": "https://i.postimg.cc/v8KnGT1t/10.jpg",
-            "status": "En Curso"
+            "editorial": "Marvel"
         }
         
     ]
+ }
 }
